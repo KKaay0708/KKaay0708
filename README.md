@@ -5,10 +5,7 @@
 <a href="https://www.linkedin.com/in/kait-kwan/">
   <img src="https://img.shields.io/badge/LinkedIn-ff8fab?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/KKaay0708">
-  <img src="https://img.shields.io/badge/GitHub-ffb3c6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:kaitkwan@seas.upenn.edu">
   <img src="https://img.shields.io/badge/Email-ffc2d1?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -19,15 +16,16 @@
 ### 🌸 About Me
 
 ```yaml
-name:    Kaitlyn (Kay) Kwan
+name:    Kaitlyn Kwan
 school:  University of Pennsylvania
-study:   B.S.E. Computer Science  +  Wharton Statistics & Data Science minor
-grad:    May 2028
+study:   B.S.E. Computer Science  +  Wharton Statistics & Data Science Minor
+grad:    Expected 2028
 current:
   - SWE Intern @ Apple
   - Co-Director & Software Engineer @ Penn Labs
-  - Flight Lead @ Penn Aerial Robotics
-interests: [ systems, full-stack, quant, applied ML, a bit of psychology ]
+  - Software Engineer @ Penn Aerial Robotics
+  - Software Engineer @ Penn Apps
+interests: [ systems, full-stack, quant, applied ML, mobile development ]
 ```
 
 <br/>
@@ -55,13 +53,13 @@ interests: [ systems, full-stack, quant, applied ML, a bit of psychology ]
 
 ### 💖 Featured Projects
 
-**[videre](https://github.com/KKaay0708/videre)** &nbsp;·&nbsp; AI-powered educational video generation — turns a topic into a narrated explainer with Manim animations and ElevenLabs voiceover. React + TypeScript front end, Flask back end. *(HackPrinceton 2025)*
+**[videre](https://github.com/KKaay0708/videre)** &nbsp;·&nbsp; AI-powered educational video generation that turns an educational topic, question, or prompt into a narrated and synced teaching video with Manim animations and ElevenLabs voiceover. React + TypeScript frontend, Flask backend. *(team project)*
 
-**[dploy](https://github.com/KKaay0708/dploy)** &nbsp;·&nbsp; Zero-config deployment — point it at any GitHub repo or local project and it spins up an ephemeral sandbox, infers how to run it, and hands back a live URL. FastAPI + React + Modal + an agent pipeline. *(team project)*
+**[dploy](https://github.com/KKaay0708/dploy)** &nbsp;·&nbsp; Zero-config deployment by feeding any public GitHub repo or local project through CLI and it spins up a Modal sandbox, infers how to run it, and returns a live shareable URL. FastAPI + React + Modal + multi-agent pipeline. *(team project)*
 
-**[duo-sync](https://github.com/KKaay0708/duo-sync)** &nbsp;·&nbsp; A SwiftUI iOS app with a home-screen widget and a Python backend for keeping two people in sync.
+**[duo-sync](https://github.com/KKaay0708/duo-sync)** &nbsp;·&nbsp; A SwiftUI iOS app with a home-screen widget/live activity and a Python backend for keeping two people in sync.
 
-**[penn-mobile-ios](https://github.com/pennlabs/penn-mobile-ios)** &nbsp;·&nbsp; The official University of Pennsylvania iOS app — dining menus, study-room booking, laundry tracking, fitness hours, and campus news. Built in Swift with Penn Labs.
+**[penn-mobile-ios](https://github.com/pennlabs/penn-mobile-ios)** &nbsp;·&nbsp; The official University of Pennsylvania iOS app for students to view dining menus, book study rooms, track laundry, and campus news. Built in Swift with Penn Labs.
 
 <br/>
 
