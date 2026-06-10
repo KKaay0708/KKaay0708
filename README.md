@@ -87,16 +87,3 @@ Developer Tools
 **[penn-mobile-ios](https://github.com/pennlabs/penn-mobile-ios)** &nbsp;·&nbsp; The official University of Pennsylvania iOS app for students to view dining menus, book study rooms, track laundry, and campus news. Built in Swift with Penn Labs.
 
 <br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KKaay0708&show_icons=true&count_private=true&title_color=d6336c&icon_color=f06595&text_color=495057&bg_color=fff0f6&border_color=fcc2d7"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKaay0708&layout=compact&langs_count=8&title_color=d6336c&text_color=495057&bg_color=fff0f6&border_color=fcc2d7"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8fab,100:ffc2d1&height=120&section=footer" width="100%"/>
-</div>
