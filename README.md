@@ -21,7 +21,7 @@ school:  University of Pennsylvania
 study:   B.S.E. Computer Science  +  Wharton Statistics & Data Science Minor
 grad:    Expected 2028
 current:
-  - SWE Intern @ Apple
+  - 2x SWE Intern @ Apple
   - Co-Director & Software Engineer @ Penn Labs
   - Software Engineer @ Penn Aerial Robotics
   - Software Engineer @ Penn Apps
